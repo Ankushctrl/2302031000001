@@ -1,0 +1,110 @@
+.iphone-pro-max {
+    background-color: #070404;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone-pro-max .div {
+    background-color: #070404;
+    width: 440px;
+    height: 956px;
+    position: relative;
+  }
+  
+  .iphone-pro-max .arrow-icon-sign {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    top: 76px;
+    left: 17px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .games {
+    position: absolute;
+    width: 157px;
+    top: 97px;
+    left: 140px;
+    -webkit-text-stroke: 1px #ef0404d6;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ef0404;
+    font-size: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro-max .overlap {
+    position: absolute;
+    width: 440px;
+    height: 364px;
+    top: 249px;
+    left: 0;
+  }
+  
+  .iphone-pro-max .rectangle {
+    height: 350px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 440px;
+    top: 0;
+    left: 0;
+  }
+  
+  .iphone-pro-max .img {
+    height: 364px;
+    object-fit: cover;
+    position: absolute;
+    width: 440px;
+    top: 0;
+    left: 0;
+  }
+  
+  .iphone-pro-max .scrabble {
+    position: absolute;
+    width: 130px;
+    top: 669px;
+    left: 154px;
+    -webkit-text-stroke: 1px #ef0404;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ef0404;
+    font-size: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .navigation-menu {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 52px;
+    left: 365px;
+  }
+  
+  .iphone-pro-max .overlap-group {
+    position: absolute;
+    width: 325px;
+    height: 61px;
+    top: 739px;
+    left: 64px;
+    background-color: #d10d0d;
+    border-radius: 12px;
+  }
+  
+  .iphone-pro-max .play {
+    position: absolute;
+    width: 76px;
+    top: 12px;
+    left: 125px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

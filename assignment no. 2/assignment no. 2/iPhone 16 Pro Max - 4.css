@@ -1,0 +1,229 @@
+.iphone-pro-max {
+  background-color: #00000045;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro-max .div {
+  background-color: #00000045;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.iphone-pro-max .arrow-icon-sign {
+  position: absolute;
+  width: 19px;
+  height: 15px;
+  top: 76px;
+  left: 17px;
+  object-fit: cover;
+}
+
+.iphone-pro-max .learning-path {
+  position: absolute;
+  width: 207px;
+  top: 110px;
+  left: 115px;
+  -webkit-text-stroke: 1px #ef0404d6;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .lessons {
+  position: absolute;
+  width: 129px;
+  top: 210px;
+  left: 35px;
+  -webkit-text-stroke: 1px #ef0404d6;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .overlap {
+  position: absolute;
+  width: 182px;
+  height: 177px;
+  top: 301px;
+  left: 27px;
+  background-color: #555050;
+  border-radius: 35px;
+}
+
+.iphone-pro-max .rectangle {
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  width: 126px;
+  height: 119px;
+  top: 29px;
+}
+
+.iphone-pro-max .overlap-group {
+  position: absolute;
+  width: 182px;
+  height: 177px;
+  top: 301px;
+  left: 245px;
+  background-color: #555050;
+  border-radius: 35px;
+}
+
+.iphone-pro-max .img {
+  left: 17px;
+  position: absolute;
+  width: 126px;
+  height: 119px;
+  top: 29px;
+}
+
+.iphone-pro-max .rectangle-wrapper {
+  position: absolute;
+  width: 182px;
+  height: 177px;
+  top: 618px;
+  left: 27px;
+  background-color: #555050;
+  border-radius: 35px;
+}
+
+.iphone-pro-max .rectangle-2 {
+  left: 28px;
+  position: absolute;
+  width: 126px;
+  height: 119px;
+  top: 29px;
+}
+
+.iphone-pro-max .img-wrapper {
+  position: absolute;
+  width: 182px;
+  height: 177px;
+  top: 618px;
+  left: 245px;
+  background-color: #555050;
+  border-radius: 35px;
+}
+
+.iphone-pro-max .rectangle-3 {
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  width: 126px;
+  height: 119px;
+  top: 29px;
+}
+
+.iphone-pro-max .basic-wrapper {
+  position: absolute;
+  width: 141px;
+  height: 53px;
+  top: 493px;
+  left: 47px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.iphone-pro-max .basic {
+  position: absolute;
+  width: 74px;
+  top: 7px;
+  left: 31px;
+  -webkit-text-stroke: 1px #ef0404;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .business-wrapper {
+  position: absolute;
+  width: 141px;
+  height: 53px;
+  top: 819px;
+  left: 55px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.iphone-pro-max .business {
+  position: absolute;
+  width: 129px;
+  top: 6px;
+  left: 8px;
+  -webkit-text-stroke: 1px #ef0404;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .other-wrapper {
+  position: absolute;
+  width: 141px;
+  height: 53px;
+  top: 818px;
+  left: 276px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.iphone-pro-max .other {
+  position: absolute;
+  width: 85px;
+  top: 7px;
+  left: 26px;
+  -webkit-text-stroke: 1px #ef0404;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .travel-wrapper {
+  position: absolute;
+  width: 141px;
+  height: 53px;
+  top: 493px;
+  left: 265px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.iphone-pro-max .travel {
+  position: absolute;
+  width: 87px;
+  top: 7px;
+  left: 28px;
+  -webkit-text-stroke: 1px #ef0404;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ef0404;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .navigation-menu {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 52px;
+  left: 393px;
+}

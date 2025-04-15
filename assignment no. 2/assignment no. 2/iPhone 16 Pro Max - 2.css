@@ -1,0 +1,127 @@
+.iphone-pro-max {
+  background-color: #070404;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro-max .div {
+  background-color: #070404;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.iphone-pro-max .sign-in {
+  position: absolute;
+  width: 107px;
+  top: 318px;
+  left: 46px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .overlap-group {
+  top: 397px;
+  background-color: #555050;
+  border-radius: 12px 5px 5px 5px;
+  position: absolute;
+  width: 325px;
+  height: 61px;
+  left: 57px;
+}
+
+.iphone-pro-max .email-OR-phone {
+  position: absolute;
+  width: 211px;
+  top: 19px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff6b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .overlap {
+  top: 500px;
+  background-color: #555050;
+  border-radius: 12px;
+  position: absolute;
+  width: 325px;
+  height: 61px;
+  left: 57px;
+}
+
+.iphone-pro-max .password {
+  position: absolute;
+  width: 97px;
+  top: 19px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff6b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .sign-in-wrapper {
+  top: 603px;
+  background-color: #d10d0d;
+  border-radius: 12px;
+  position: absolute;
+  width: 325px;
+  height: 61px;
+  left: 57px;
+}
+
+.iphone-pro-max .text-wrapper {
+  position: absolute;
+  width: 60px;
+  top: 19px;
+  left: 133px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro-max .check-box-streamline {
+  position: absolute;
+  width: 18px;
+  height: 15px;
+  top: 675px;
+  left: 64px;
+}
+
+.iphone-pro-max .check-box {
+  position: absolute;
+  width: 14px;
+  height: 11px;
+  top: 2px;
+  left: 2px;
+}
+
+.iphone-pro-max .remember-me {
+  position: absolute;
+  width: 77px;
+  top: 674px;
+  left: 88px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}

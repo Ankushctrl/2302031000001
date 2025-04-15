@@ -1,0 +1,235 @@
+.iphone-pro-max {
+    background-color: #070404;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone-pro-max .div {
+    background-color: #070404;
+    width: 440px;
+    height: 956px;
+    position: relative;
+  }
+  
+  .iphone-pro-max .arrow-icon-sign {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    top: 76px;
+    left: 17px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .progress {
+    position: absolute;
+    width: 195px;
+    top: 95px;
+    left: 122px;
+    -webkit-text-stroke: 1px #ef0404d6;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ef0404;
+    font-size: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro-max .overlap-group {
+    top: 259px;
+    left: 17px;
+    position: absolute;
+    width: 404px;
+    height: 158px;
+    background-color: #ffffff9e;
+  }
+  
+  .iphone-pro-max .rectangle {
+    left: 10px;
+    position: absolute;
+    width: 132px;
+    height: 91px;
+    top: 33px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .japanese {
+    position: absolute;
+    width: 156px;
+    top: 37px;
+    left: 160px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .level-basic {
+    position: absolute;
+    width: 79px;
+    top: 90px;
+    left: 164px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .completion {
+    top: 118px;
+    left: 175px;
+    position: absolute;
+    width: 83px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .OIP {
+    top: 140px;
+    left: 17px;
+    position: absolute;
+    width: 368px;
+    height: 13px;
+  }
+  
+  .iphone-pro-max .overlap {
+    top: 721px;
+    left: 19px;
+    position: absolute;
+    width: 404px;
+    height: 158px;
+    background-color: #ffffff9e;
+  }
+  
+  .iphone-pro-max .img {
+    left: 8px;
+    position: absolute;
+    width: 132px;
+    height: 91px;
+    top: 33px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .german {
+    width: 156px;
+    left: 158px;
+    position: absolute;
+    top: 37px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .text-wrapper {
+    top: 117px;
+    left: 168px;
+    position: absolute;
+    width: 83px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .level-travel {
+    position: absolute;
+    width: 94px;
+    top: 90px;
+    left: 168px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .OIP-2 {
+    top: 135px;
+    left: 15px;
+    position: absolute;
+    width: 368px;
+    height: 13px;
+  }
+  
+  .iphone-pro-max .overlap-2 {
+    top: 510px;
+    left: 17px;
+    position: absolute;
+    width: 404px;
+    height: 158px;
+    background-color: #ffffff9e;
+  }
+  
+  .iphone-pro-max .hindi {
+    width: 146px;
+    left: 160px;
+    position: absolute;
+    top: 37px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .completion-2 {
+    top: 115px;
+    left: 175px;
+    position: absolute;
+    width: 83px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .level-business {
+    position: absolute;
+    width: 111px;
+    top: 90px;
+    left: 161px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .OIP-3 {
+    top: 135px;
+    left: 17px;
+    position: absolute;
+    width: 368px;
+    height: 13px;
+  }
+  
+  .iphone-pro-max .navigation-menu {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 67px;
+    left: 378px;
+  }

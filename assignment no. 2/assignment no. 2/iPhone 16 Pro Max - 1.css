@@ -1,0 +1,57 @@
+.iphone-pro-max {
+  background-color: #070404;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-pro-max .div {
+  background-color: #070404;
+  width: 440px;
+  height: 956px;
+  position: relative;
+}
+
+.iphone-pro-max .fun-learn {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  top: 219px;
+  left: 78px;
+}
+
+.iphone-pro-max .overlap-group {
+  position: absolute;
+  width: 215px;
+  height: 69px;
+  top: 604px;
+  left: 113px;
+  border-radius: 12px;
+}
+
+.iphone-pro-max .rectangle {
+  position: absolute;
+  width: 215px;
+  height: 69px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 12px;
+  box-shadow: 0px 11px 10.8px -1px #555050;
+}
+
+.iphone-pro-max .start-learning {
+  position: absolute;
+  width: 176px;
+  top: 17px;
+  left: 18px;
+  -webkit-text-stroke: 1px #b51717;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #b51717;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
